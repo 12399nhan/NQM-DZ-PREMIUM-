@@ -1,6 +1,5 @@
 loadstring(Game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/main.txt"))()
 
-
 local Window = MakeWindow({
 Hub = {
 Title = "NQM DZ[PREMIUM]",
